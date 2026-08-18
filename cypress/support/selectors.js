@@ -1,0 +1,16 @@
+export const selectors = {
+    enter_store:"//a[normalize-space()='Enter the Store']",
+    username_field:'[name="username"]',
+    password_field:'[name="password"]',
+    confirm_password_field:'[name="repeatedPassword"]',
+    first_name_field:'[name="account.firstName"]',
+    last_name_field:'[name="account.lastName"]',
+    email_field:'[name="account.email"]',
+    phone_field:'[name="account.phone"]',
+    address1_field:'[name="account.address1"]',
+    address2_field:'[name="account.address2"]',
+    city_field:'[name="account.city"]',
+    state_field:'[name="account.state"]',
+    zip_field:'[name="account.zip"]',
+    country_field:'[name="account.country"]',
+}
